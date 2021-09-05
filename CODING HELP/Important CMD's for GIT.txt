@@ -1,0 +1,11 @@
+git add . - adds file to commit - 
+git commit -m "reason to display to others" - commits the particular updates to HUB
+git push - to sync the commits made
+git pull - to receive updates form HUB
+touch filename.py or filename.ipynb - creates the file in the computer
+git branch -d branchname - deletes the branch if you are not on it
+git merge branchname - merges a branch with the current branch
+git checkout branchname - switches to branchname
+git commit -am "reason to ...." - adds the file and commits the updates to HUB
+git checkout -b newbranchname - adds and switches to newbranchname
+
